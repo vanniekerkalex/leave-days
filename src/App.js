@@ -14,6 +14,7 @@ function App() {
       <Container>
         <div class="container">
           <h1>Leave Days</h1>
+          <p>To help you get the most out of your leave days.</p>
           <LocalizationProvider dateAdapter={AdapterDateFns}>
             <StaticDateRangePicker
               displayStaticWrapperAs="desktop"
